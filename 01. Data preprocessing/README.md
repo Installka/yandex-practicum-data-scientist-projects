@@ -10,8 +10,8 @@ __What's done__:
     - data types correction;
     - duplicates detection and removal;
     - strings features lemmatization;
-    - category features obtantion from other fatures.
-- 4 hypothesis were tested and rejected:
+    - category features obtention from other features.
+- 4 hypotheses were tested and rejected:
     - about the relationship between the presence of children and loan repayment on time;
     - about the relationship between marital status and loan repayment on time;
     - about the relationship between income level and loan repayment on time;
