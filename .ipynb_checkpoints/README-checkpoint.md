@@ -33,7 +33,8 @@ Tools used - pandas, pymystem3.
 
 
 ### [Project 4. Module project 1](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/04.%20Module%20project%201)
-__Project, that covers all previous studies__
+__Computer games market research__
+
 - Client - computer games online store;
 - Input data - historical game sales data, user and expert ratings, genres and platforms (e.g. Xbox or PlayStation);
 - Target - identify patterns governing the success of the game.

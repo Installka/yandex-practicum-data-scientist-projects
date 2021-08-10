@@ -1,8 +1,12 @@
 # Fundamentals of Python and data analysis
 
+__Music of big cities__
+
 __Client__ - [Yandex.Music](https://music.yandex.ru/).
 
 __Input data__ - music listening data for Moscow and St. Petersburg.
+
+__Target__ - researching user preferences.
 
 __What's done__:
 - data exploration;
