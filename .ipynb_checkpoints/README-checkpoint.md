@@ -12,7 +12,6 @@ __Music of big cities__
 
 Tools used - pandas.
 
-
 ### [Project 1. Data preprocessing](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/01.%20Data%20preprocessing)
 __Borrowers reliability research__
 
@@ -22,7 +21,6 @@ __Borrowers reliability research__
 
 Tools used - pandas, pymystem3.
 
-
 ### [Project 2. Exploratory data analysis](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/02.%20Exploratory%20data%20analysis)
 __Analysis of apartment advertisements__
 
@@ -31,6 +29,14 @@ __Analysis of apartment advertisements__
 
 Tools used - pandas, pymystem3.
 
+### [Project 3. Statistical data analysis](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/03.%20Statistical%20data%20analysis)
+__Definition of a prospective tariff for a telecom company__ 
+
+- Client - federal mobile operator;
+- Input data - data from 500 users: who they are, where they come from, what tariff they use, how many calls and messages each one sent in 2018;
+- Target - analyze customer behavior and conclude - which tariff is better.
+
+Tools used - pandas, NumPy, Matplotlib, SciPy.
 
 ### [Project 4. Module project 1](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/04.%20Module%20project%201)
 __Computer games market research__
