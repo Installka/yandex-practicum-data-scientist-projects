@@ -25,4 +25,5 @@ __What's done__:
 - report made.
 
 __Tools used__ - pandas, NumPy, matplotlib, scikit-learn, CatBoost.
+
 __Models used__ - Logistic Regression, Decision Tree Classifier, Random Forest Classifier, CatBoost Classifier, VotingClassifier.

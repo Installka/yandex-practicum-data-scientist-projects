@@ -19,4 +19,5 @@ __What's done__:
 - accuracy on test sample - 0.82.
 
 __Tools used__ - pandas, scikit-learn.
+
 __Models used__ - Logistic Regression, Decision Tree Classifier, Random Forest Classifier.

@@ -66,4 +66,5 @@ __Telecom operator customer churn prediction__
 - Target - learn to predict customer churn.
 
 Tools used - pandas, NumPy, Matplotlib, scikit-learn, CatBoost.
+
 Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier, CatBoost Classifier, VotingClassifier.
