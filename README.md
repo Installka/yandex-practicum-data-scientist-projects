@@ -58,7 +58,7 @@ Tools used - pandas, scikit-learn.
 
 Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
 
-### [Project 15. Final project](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/05.%20Introduction%20to%20machine%20learning)
+### [Project 15. Final project](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/15.%20Final%20project)
 __Telecom operator customer churn prediction__
 
 - Client - telecom operator.
