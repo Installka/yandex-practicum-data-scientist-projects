@@ -55,3 +55,15 @@ __Tariff recommendation__
 - Target - build a model for the classification problem, which will choose the appropriate tariff.
 
 Tools used - pandas, scikit-learn.
+
+Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
+
+### [Project 15. Final project](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/05.%20Introduction%20to%20machine%20learning)
+__Telecom operator customer churn prediction__
+
+- Client - telecom operator.
+- Input data - personal data of clients, information about their tariffs and contracts.
+- Target - learn to predict customer churn.
+
+Tools used - pandas, NumPy, Matplotlib, scikit-learn, CatBoost.
+Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier, CatBoost Classifier, VotingClassifier.

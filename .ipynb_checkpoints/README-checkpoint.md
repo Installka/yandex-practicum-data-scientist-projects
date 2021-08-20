@@ -1,4 +1,4 @@
-# yandex-praktikum-data-scientist-projects
+# yandex-practicum-data-scientist-projects
 Projects from [Yandex.Praktikum Data Scientist course](https://praktikum.yandex.ru/data-scientist/). 
  
 Unfortunately, I can’t post datasets from most of the projects here because of limitations in the [Yandex.Praktikum terms of use](https://yandex.ru/legal/praktikum_termsofuse/) (clause 4.1). But in some cases datasets were pulled from open sources (project 6), so you can download data and notebook and fully run it.
@@ -55,3 +55,15 @@ __Tariff recommendation__
 - Target - build a model for the classification problem, which will choose the appropriate tariff.
 
 Tools used - pandas, scikit-learn.
+
+Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
+
+### [Project 15. Final project](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/05.%20Introduction%20to%20machine%20learning)
+__Telecom operator customer churn prediction__
+
+- Client - telecom operator.
+- Input data - personal data of clients, information about their tariffs and contracts.
+- Target - learn to predict customer churn.
+
+Tools used - pandas, NumPy, Matplotlib, scikit-learn, CatBoost.
+Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier, CatBoost Classifier, VotingClassifier.
