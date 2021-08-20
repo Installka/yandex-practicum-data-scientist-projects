@@ -46,3 +46,12 @@ __Computer games market research__
 - Target - identify patterns governing the success of the game.
 
 Tools used - pandas, NumPy, Matplotlib, seaborn, SciPy.
+
+### [Project 5. Introduction to machine learning](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/05.%20Introduction%20to%20machine%20learning)
+__Tariff recommendation__
+
+- Client - federal mobile operator.
+- Input data - data on the behavior of customers who have already switched to these tariffs (from the project 3).
+- Target - build a model for the classification problem, which will choose the appropriate tariff.
+
+Tools used - pandas, scikit-learn.

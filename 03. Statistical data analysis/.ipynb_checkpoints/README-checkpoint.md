@@ -19,7 +19,7 @@ __What's done__:
     - number of messages sent by month;
     - internet traffic consumed by month;
     - monthly revenue from each user.
-- EDA preformed - two tariffs were compared with, mean, variance, standard deviation, graphs (histograms and boxplots) and 3 sigma rule by users, calls, messages and internet-sessions;
+- EDA preformed - two tariffs were compared with, mean, variance, standard deviation, graphs (histograms and boxplots) and 3 sigma rule by calls, messages and internet-sessions;
 - the hypothesis that the average revenue of users of the two tariffs is the same tested and rejected;
 - the hypothesis that the average revenue of users from Moscow and other regions is the same tested and not rejected;
 - the hypothesis that the average revenue of users of the Ultra and Smart tariffs is the same tested and rejected - the average revenue of the Smart tariff is less than the revenue of the Ultra tariff.
