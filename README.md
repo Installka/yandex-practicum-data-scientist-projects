@@ -1,4 +1,4 @@
-# yandex-praktikum-data-scientist-projects
+# yandex-practicum-data-scientist-projects
 Projects from [Yandex.Praktikum Data Scientist course](https://praktikum.yandex.ru/data-scientist/). 
  
 Unfortunately, I can’t post datasets from most of the projects here because of limitations in the [Yandex.Praktikum terms of use](https://yandex.ru/legal/praktikum_termsofuse/) (clause 4.1). But in some cases datasets were pulled from open sources (project 6), so you can download data and notebook and fully run it.
