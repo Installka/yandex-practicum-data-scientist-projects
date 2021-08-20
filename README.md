@@ -1,10 +1,10 @@
 # yandex-practicum-data-scientist-projects
-Projects from [Yandex.Praktikum Data Scientist course](https://praktikum.yandex.ru/data-scientist/). 
+Projects from [Yandex.Practicum Data Scientist course](https://practicum.yandex.ru/data-scientist/). 
  
-Unfortunately, I can’t post datasets from most of the projects here because of limitations in the [Yandex.Praktikum terms of use](https://yandex.ru/legal/praktikum_termsofuse/) (clause 4.1). But in some cases datasets were pulled from open sources (project 6), so you can download data and notebook and fully run it.
+Unfortunately, I can’t post datasets from most of the projects here because of limitations in the [Yandex.Practicum terms of use](https://yandex.ru/legal/praktikum_termsofuse/) (clause 4.1). But in some cases datasets were pulled from open sources (project 6), so you can download data and notebook and fully run it.
  
 ## Description of projects
-### [Project 0. Fundamentals of Python and data analysis](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/00.%20Fundamentals%20of%20Python%20and%20data%20analysis)
+### [Project 0. Fundamentals of Python and data analysis](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/00.%20Fundamentals%20of%20Python%20and%20data%20analysis)
 __Music of big cities__
 - Client - [Yandex.Music](https://music.yandex.ru/);
 - Input data - music listening data for Moscow and St. Petersburg;
@@ -12,7 +12,7 @@ __Music of big cities__
 
 Tools used - pandas.
 
-### [Project 1. Data preprocessing](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/01.%20Data%20preprocessing)
+### [Project 1. Data preprocessing](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/01.%20Data%20preprocessing)
 __Borrowers reliability research__
 
 - Client - bank credit department;
@@ -21,7 +21,7 @@ __Borrowers reliability research__
 
 Tools used - pandas, pymystem3.
 
-### [Project 2. Exploratory data analysis](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/02.%20Exploratory%20data%20analysis)
+### [Project 2. Exploratory data analysis](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/02.%20Exploratory%20data%20analysis)
 __Analysis of apartment advertisements__
 
 - Input data - [Yandex.Nedvizhimost](https://realty.yandex.ru/) service data: archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years;
@@ -29,7 +29,7 @@ __Analysis of apartment advertisements__
 
 Tools used - pandas, pymystem3.
 
-### [Project 3. Statistical data analysis](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/03.%20Statistical%20data%20analysis)
+### [Project 3. Statistical data analysis](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/03.%20Statistical%20data%20analysis)
 __Definition of a prospective tariff for a telecom company__ 
 
 - Client - federal mobile operator;
@@ -38,7 +38,7 @@ __Definition of a prospective tariff for a telecom company__
 
 Tools used - pandas, NumPy, Matplotlib, SciPy.
 
-### [Project 4. Module project 1](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/04.%20Module%20project%201)
+### [Project 4. Module project 1](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/04.%20Module%20project%201)
 __Computer games market research__
 
 - Client - computer games online store;
@@ -47,7 +47,7 @@ __Computer games market research__
 
 Tools used - pandas, NumPy, Matplotlib, seaborn, SciPy.
 
-### [Project 5. Introduction to machine learning](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/05.%20Introduction%20to%20machine%20learning)
+### [Project 5. Introduction to machine learning](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/05.%20Introduction%20to%20machine%20learning)
 __Tariff recommendation__
 
 - Client - federal mobile operator.
@@ -58,7 +58,7 @@ Tools used - pandas, scikit-learn.
 
 Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
 
-### [Project 15. Final project](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/15.%20Final%20project)
+### [Project 15. Final project](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/15.%20Final%20project)
 __Telecom operator customer churn prediction__
 
 - Client - telecom operator.
