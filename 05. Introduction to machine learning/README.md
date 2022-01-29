@@ -11,7 +11,7 @@ __Target__ - build a model for the classification problem, which will choose the
 __What's done__:
 - data splitting to independent and target features;
 - data splitting to training, validation and test samples;
-- 3 machine learing models fitted and compared (with self-made hyperparameters variation):
+- 3 machine learning models fitted and compared (with self-made hyperparameters variation):
     - logistic regression;
     - decision tree;
     - random forest.
