@@ -62,7 +62,7 @@ Models used - Logistic Regression, Decision Tree Classifier, Random Forest Class
 __Customer churn__
 
 - Client - bank;
-- Input data - historical data on customer behavior and termination of contracts with the bank (this data pulled from Kaggle[https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling], so you can download it from Kaggle or from repository[https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/06.%20Supervised%20learning/Churn_Modelling.csv] and fully run this project's notebook);
+- Input data - historical data on customer behavior and termination of contracts with the bank (this data pulled from [Kaggle](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling), so you can download it from Kaggle or from [repository](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/06.%20Supervised%20learning/Churn_Modelling.csv) and fully run this project's notebook);
 - Target - predict whether the client will leave the bank in the near future or not.
 
 Tools used - pandas, NumPy, Matplotlib, scikit-learn, plotly, seaborn.

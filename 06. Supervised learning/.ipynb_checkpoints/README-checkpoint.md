@@ -4,7 +4,7 @@ __Customer churn__
 
 __Client__ - bank.
 
-__Input data__ - historical data on customer behavior and termination of contracts with the bank (this data pulled from Kaggle[https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling], so you can download it from Kaggle or from repository[https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/06.%20Supervised%20learning/Churn_Modelling.csv] and fully run this project's notebook).
+__Input data__ - historical data on customer behavior and termination of contracts with the bank (this data pulled from [Kaggle](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling), so you can download it from Kaggle or from [repository](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/06.%20Supervised%20learning/Churn_Modelling.csv) and fully run this project's notebook).
 
 __Target__ - predict whether the client will leave the bank in the near future or not.
 
