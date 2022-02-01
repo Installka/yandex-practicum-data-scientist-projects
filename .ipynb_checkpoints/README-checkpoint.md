@@ -69,6 +69,16 @@ Tools used - pandas, NumPy, Matplotlib, scikit-learn, plotly, seaborn.
 
 Models used - Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
 
+### [Project 7. Machine learning in business](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/07.%20Machine%20learning%20in%20business)
+__Determining the place for a new oil well__
+- Client - oil company;
+- Input data - oil samples in 3 regions;
+- Target - build a ML model to help determine the region where mining will generate the most profit. Analyze the potential rewards and risks with the Bootstrap technique.
+
+Tools used - pandas, NumPy, Matplotlib, scikit-learn.
+
+Models used - Linear Regression.
+
 ### [Project 15. Final project](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/15.%20Final%20project)
 __Telecom operator customer churn prediction__
 
