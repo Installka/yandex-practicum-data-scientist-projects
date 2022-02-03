@@ -79,7 +79,7 @@ Tools used - pandas, NumPy, Matplotlib, scikit-learn.
 
 Models used - Linear Regression.
 
-### [Project 8. Module project 2](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/08.%20Module%20project%202/project.ipynb)
+### [Project 8. Module project 2](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/08.%20Module%20project%202)
 __Gold ore recovery rate prediction__
 - Client - [Zyfra](https://www.zyfra.com);
 - Input data - data with parameters of mining and purification of gold ore;
@@ -88,6 +88,16 @@ __Gold ore recovery rate prediction__
 Tools used - pandas, NumPy, Matplotlib, SciPy, scikit-learn.
 
 Models used - Linear Regression, Decision Tree Regressor, Random Forest Regressor.
+
+### [Project 9. Linear algebra](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/09.%20Linear%20algebra)
+__Customer data protection__
+- Client - insurance company;
+- Input data - data with info about customer;
+- Target - develop a method for transforming data so that it is difficult to recover personal information from them and the quality of machine learning models does not deteriorate.
+
+Tools used - pandas, NumPy, scikit-learn.
+
+Models used - Linear Regression.
 
 ### [Project 15. Final project](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/15.%20Final%20project)
 __Telecom operator customer churn prediction__
