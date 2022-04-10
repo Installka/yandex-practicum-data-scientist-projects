@@ -99,6 +99,16 @@ Tools used - pandas, NumPy, scikit-learn.
 
 Models used - Linear Regression.
 
+### [Project 12. Machine learning for texts](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/12.%20Machine%20learning%20for%20texts)
+__Toxic comments detection__
+- Client - online store;
+- Input data - cased comments;
+- Target - build a model for classifying comments into positive and negative.
+
+Tools used - pandas, NumPy, Matplotlib, re, NLTK, SciPy, PyTorch, transfromers, LightGBM, scikit-learn.
+
+Models used - LightGBM Classifier, BERT, Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
+
 ### [Project 15. Final project](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/15.%20Final%20project)
 __Telecom operator customer churn prediction__
 
