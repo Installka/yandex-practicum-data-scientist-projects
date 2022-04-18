@@ -109,7 +109,7 @@ Tools used - pandas, NumPy, Matplotlib, re, NLTK, SciPy, PyTorch, transfromers, 
 
 Models used - LightGBM Classifier, BERT, Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
 
-### [Project 14. Computer vision](https://github.com/Installka/yandex-praktikum-data-science-specialist-projects/tree/main/14.%20Computer%20vision)
+### [Project 14. Computer vision](https://github.com/Installka/yandex-praktikum-data-scientist-projects/tree/main/14.%20Computer%20vision)
 __Determining age from a photograph__
 - Client - supermarket network;
 - Input data - set of photographs of people with age indication;
