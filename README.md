@@ -109,6 +109,16 @@ Tools used - pandas, NumPy, Matplotlib, re, NLTK, SciPy, PyTorch, transfromers, 
 
 Models used - LightGBM Classifier, BERT, Logistic Regression, Decision Tree Classifier, Random Forest Classifier.
 
+### [Project 14. Computer vision](https://github.com/Installka/yandex-praktikum-data-science-specialist-projects/tree/main/14.%20Computer%20vision)
+__Determining age from a photograph__
+- Client - supermarket network;
+- Input data - set of photographs of people with age indication;
+- Target - model that will determine the approximate age of a person from a photograph.
+
+Tools used - pandas, NumPy, Matplotlib, PIL, Keras.
+
+Models used - ResNet50.
+
 ### [Project 15. Final project](https://github.com/Installka/yandex-practicum-data-scientist-projects/tree/main/15.%20Final%20project)
 __Telecom operator customer churn prediction__
 
